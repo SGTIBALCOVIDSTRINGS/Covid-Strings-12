@@ -28,52 +28,52 @@ matchupdiv.innerHTML =[matchup]
 rounddiv.appendchild(matchup)
 for (i in covid strings first round)
 round div=create element
-round div class name=Covid Strings11 First Round
-bracket.AppendChild(Round Div)
-If (Event.Target.Covid Strings Seed List.Contains(Matchup))
-Event.Target.Covid Strings Seed List.Toggle
-Else:
-AddMatchup
-Import Java Util.Scanner
-Import Java.Util
-Questions[]Questions={
-    Question1
-    Question2
-    Question3
-    Question4
-    Question5
-    Question6
-    Question7
-    Question8
-    Question9
-    Question10
-    Question11
-    Question12
-    Question13
-    Question14
-    Question15
-    Question16
-    If SelectedAnswer==Correct:
-    return True
-    If SelectedAnswer=InCorrect
-    return False
-    AdvancingTeam=Teams.Slice(Current Teams.Length)
-     DeclareWinner
-    Let Result= DeclareWinner(Team1 Score, Team2 Score)
-    If Orange Score>=Forty:
-    Console.Log(Orange RNA Messengers Win)
-    Else:
-    Consloe.Log(Pink Covid Disease Fighters Win)
-    If Red Score>Forty:
-    Console.Log(Red Protein Spikers Win)
-    Else:
-    Console.Log(Yellow Moxie Wins)
-    If Blue Score>Forty:
-    Console.Log(Blue Curve Crushers Win)
-    Else:
-    Console.Log(Purple Brave Hearts)
-    If Black Score>Forty:
-    Console.Log(Black Night Riders Win)
-    Else:
-    Console.Log(Teal Terminators Win)
-    return Filename
+round div class name=covid strings11 first round
+bracket.appendchild(round div)
+if (event.target.covid strings seed list.contains(matchup))
+event.target.covid strings seed list.toggle
+else:
+addmatchup
+java util.scanner
+java.util
+questions[]questions={
+question1
+question2
+question3
+question4
+question5
+question6
+question7
+question8
+question9
+question10
+question11
+question12
+question13
+question14
+question15
+question16
+if selectedanswer==correct:
+return true
+if selectedanswer=incorrect
+return false
+advancingteam=slice(current teams)
+declarewinner
+result=declarewinner(team1 score, team2 score)
+if orange score>=forty:
+console.log(orange rna messengers win)
+else:
+consloe.log(pink covid disease fighters win)
+if red score>forty:
+console.log(red protein spikers win)
+else:
+console.log(yellow moxie wins)
+if blue score>forty:
+console.log(blue curve crushers win)
+else:
+console.log(purple brave hearts)
+if black score>forty:
+console.log(black night riders win)
+else:
+console.log(teal terminators win)
+return filename
