@@ -36,80 +36,94 @@ public static void main(string [] args)
 jframe f = new covid strings12()
 f.set title(covid strings12)
 f.set default closeoperation(jframe.exit_on_close);
-F.SetSize
-F.Set Visible(True);
-<Label Id=LblScore>Zero</Label>
-Var Score=Zero
-If (Mult == X*Y)
-[Non-Concatenated]
-Score+=Ten
-Else:
-Score-=Ten
-If (Mult == X*Y)
-[Concatenated]
-Score+=Twenty
-Else:
-Score-=Twenty
-Var LblScore= Document.GetElementbyId(LblScore)
-Lbl.Score.InnerHTML=Score
-Public ActionPerformed(Action Event E) 
-System.Out Print.In (Next Button Clicked)
-Frame.Add(Next Button);
-Frame Set Visible True
-Const Object {A:One, B:Two, C:Three, D:Four, E:Five, F:Six, G:Seven, H:Eight}
-Const Keys Object Keys(Team)
-Const Entries Object Entries(Obj);
-Const Object [Team Color]
-CovidstringsTeamList12= [Red,Black,Blue, Orange, Pink, Purple, Teal, Yellow]
-Covid Strings Phrase List12=[The Kids As Cardboard Cutouts Hides The Sad Reality Of Covids Impact On Kids
-Internet Access Has Played A Crucial Role In Determining The Haves And Have Nots Of The Pandemic
-Internet Access Has Determined In A Way Who Lives And Dies
-This Is Why Internet Access Should Be A Basic Human Right
-Even If You Dont Work From Home The Internet Likely Has Had An Impact On Your Life
-The Internet Can Even Help You Get Important Information About Covid
-HMPV Can Easily Show How Covid Is Not The Only Risk 
-The Other Concern Is That The Decline In American Lifespans Will Continue Well Past Covid
-Concatenated Strings
-This+Could+Be+Part+Of+Demogprahic+Trends+That+Suggest+The+US+Population+Will+Decline+By+TWENTY SIXTY
-If+So+The+Sheer+Amount+Of+Death+Could+Create+A+Crisis
-Immigration+Could+Be+A+Potential+Solution
-Nevertheless+Covid+Played+A+Role+In+Population+Decline
-Specifically+The+Aftermath+States+It+Was+Accelerated+A+Decade
-The+Idea+Of+A+Covid+Baby+Boom+Is+A+Little+More+Complicated
-It+Started+Promising+But+It+Eventually+Receded
-More+Flexibility+Can+Easily+Result+In+Some+Sort+Of+Baby+Bump]
-Covid Strings12 Math Problems List=[]
-Covid Strings Sentence12=[Covid Will Cause The US Population To Decline For Years To Come,Life Spans Will Drop A Couple Of Years Because Of Covid,One Morale Of Covid Is If You Have Internet Access Youre Lucky]
-String.Split   
-Arrays.AsList(List<String>)
-For (String Ss:Arr){
-System.OutprintIn(Ss)
-Java Util.Scanner
-Java.Util
-Questions[]Questions={
-Collections.Shuffle(Arrays.Aslist(Questions)
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-Constmyclass=New.Myclass(Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-Import Syntax 
-Substring(Start,End)
-Userin.Multiple Choice
-If SelectedAnswer==Correct Answer:
-Return True
-Else:
-Return False
-return Filename
+f.setsize
+f.set visible(true);
+<label id=lblscore>zero</label>
+score=zero
+if(mult == x*y)
+[non-concatenated]
+score+=ten
+else:
+score-=ten
+if (mult ==x*y)
+[concatenated]
+score+=twenty
+else:
+score-=twenty
+lblscore=document.getelementbyid(lblscore)
+lbl.score.innerHTML=score
+public actionperformed(action event e) 
+system.out print.in (next button clicked)
+frame.add(next button);
+frame set visible true
+object {a:one, b:two, c:three, d:four, e:five, f:six, g:seven, h:eight}
+keys object keys(team)
+entries object entries(obj);
+object [team color]
+covidstringsteamlist12= [red,black,blue,orange,pink,purple,teal,yellow]
+covid strings phrase list12=[the kids as cardboard cutouts hides the sad reality of covids impact on kids
+internet access has played a crucial role in determining the haves and have nots of the pandemic
+internet access has determined in a way who lives and dies
+this is why internet access should be a basic human right
+even if you dont work from home the internet likely has had an impact on your life
+the internet can even help you get important information about covid
+hmpv can easily show how covid is not the only risk 
+the other concern is that the decline in american lifespans will continue well past covid
+concatenated strings
+this+could+be+part+of+demogprahic+trends+that+suggest+the+us+population+will+decline+by+twenty-sixty
+if+so+the+sheer+amount+of+death+could+create+a+crisis
+immigration+could+be+a+potential+solution
+nevertheless+covid+played+a+role+in+population+decline
+specifically+the+aftermath+states+it+was+accelerated+a+decade
+the+idea+of+a+covid+baby+boom+is+a+little+more+complicated
+it+started+promising+but+it+eventually+receded
+more+flexibility+can+easily+result+in+some+sort+of+baby+bump]
+covid strings12 math problems list=[]
+covid strings sentence12=[covid will cause the us population to decline for years to come,life spans will drop a couple of years because of covid,one morale of covid is if you have internet access youre lucky]
+string.split   
+arrays.aslist(list<string>)
+for (string ss:arr){
+system.outprintin(ss)
+java util.scanner
+java.util
+questions[]questions={
+collections.shuffle(arrays.aslist(questions)
+userin.select team
+import meta.
+class myclass
+constructor(non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+myclass=new.myclass(concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else
+prompt 
+log
+import syntax 
+substring(start,end)
+userin.multiple choice
+if selectedanswer==correct answer:
+return true
+else:
+return false
+if selectedanswer=not correct
+return false
+else 
+return true
+return filename
