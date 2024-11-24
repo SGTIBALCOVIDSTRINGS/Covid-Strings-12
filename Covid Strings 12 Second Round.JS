@@ -45,6 +45,6 @@ else:
 console.log(lowest remaining seed advances)
 if intermediate seed1 score>=forty:
 console.log(intermediate seed1 advances)
-Eelse:
+else:
 console.log(intermediate seed2 advances)
 return filename
