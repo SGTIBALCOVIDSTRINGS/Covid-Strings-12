@@ -1,5 +1,6 @@
 doc.type.html
 script
+filename= covid strings 12 background.js
 java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
@@ -14,7 +15,7 @@ private final j button option button=
 new j button (change color)
 public fun with graphics(){
 jpanel color panel=new j panel();
-add (panel,center )
+add (panel,center)
 jpanel button panel=
 new j panel(flowlayout.center)
 buttonpanel.add(randombutton);
