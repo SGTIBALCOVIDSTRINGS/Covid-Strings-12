@@ -1,23 +1,23 @@
 doc.type.html
 script
-filename=covid strings12.js    
-java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
+filename=covid strings12.js    
+java.awt graphics 
 <div id=header></div>
 audio=new audio(audio_file mp3)
 audio.play 
-jbutton random button
-new jbutton (set random color)
+random button
+new button (set random color)
 private final j button option button=
 new j button (change color)
-public fun with graphics(){
-jpanel color panel=new j panel();
-this add (panel,center )
-jpanel button panel=
-new j panel(flowlayout.center)
+public fun with graphics()
+color panel=new j panel();
+add (panel,center )
+button panel
+new panel(flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
@@ -32,14 +32,14 @@ else
 return math floor total players/players per team
 teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
-optionbutton.add actionlistener(new action listener(){
+optionbutton.add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e){
 color m=jcolorchooser.showdialog(funwithgraphics.this,)
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel, borderlayout.south)
-public static void main(string [] args)
+public static main(string [] args)
 jframe f = new covid strings12()
 f.set title(covid strings12)
 f.set default closeoperation(jframe.exit_on_close);
@@ -58,7 +58,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
@@ -67,7 +67,7 @@ object {a:one, b:two, c:three, d:four, e:five, f:six, g:seven, h:eight}
 keys object keys(team)
 entries object entries(obj);
 object [team color]
-covidstringsteamlist12= [red,black,blue,orange,pink,purple,teal,yellow]
+covidstringsteamlist12= [red protein spikers,black night riders ,blue curve crushers ,orange rna messengers ,pink covid disease fighters ,purple brave hearts,teal terminators,yellow moxie]
 covid strings phrase list12=[the kids as cardboard cutouts hides the sad reality of covids impact on kids
 internet access has played a crucial role in determining the haves and have nots of the pandemic
 internet access has determined in a way who lives and dies
@@ -139,7 +139,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -149,4 +149,8 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet) 
+if users team wins covid strings12 
+console log users team wins covid strings12 
+else
+return game over
 return filename
