@@ -68,27 +68,27 @@ keys object keys(team)
 entries object entries(obj);
 object [team color]
 covidstringsteamlist12= [red protein spikers,black night riders ,blue curve crushers ,orange rna messengers ,pink covid disease fighters ,purple brave hearts,teal terminators,yellow moxie]
-covid strings phrase list12=[the kids as cardboard cutouts hides the sad reality of covids impact on kids
-internet access has played a crucial role in determining the haves and have nots of the pandemic
-internet access has determined in a way who lives and dies
-this is why internet access should be a basic human right
-even if you dont work from home the internet likely has had an impact on your life
-the internet can even help you get important information about covid
-hmpv can easily show how covid is not the only risk 
-the other concern is that the decline in american lifespans will continue well past covid
+covid strings phrase list12=[ non-concatenated strings "the kids as cardboard cutouts hides the sad reality of covids impact on kids"
+"internet access has played a crucial role in determining the haves and have nots of the pandemic"
+"internet access has determined in a way who lives and dies"
+"this is why internet access should be a basic human right"
+"even if you dont work from home the internet likely has had an impact on your life"
+"the internet can even help you get important information about covid
+"hmpv can easily show how covid is not the only risk" 
+"the other concern is that the decline in american lifespans will continue well past covid"
 concatenated strings
-this+could+be+part+of+demogprahic+trends+that+suggest+the+us+population+will+decline+by+twenty-sixty
-if+so+the+sheer+amount+of+death+could+create+a+crisis
-immigration+could+be+a+potential+solution
-nevertheless+covid+played+a+role+in+population+decline
-specifically+the+aftermath+states+it+was+accelerated+a+decade
-the+idea+of+a+covid+baby+boom+is+a+little+more+complicated
-it+started+promising+but+it+eventually+receded
-more+flexibility+can+easily+result+in+some+sort+of+baby+bump]
+"this"+"could"+"be"+"part"+"of"+"demogprahic"+"trends"+"that"+"suggest"+"the"+"us"+"population"+"will"+"decline"+"by"+"twenty-sixty"
+"if"+"so"+"the"+sheer"+"amount"+"of"+"death"+"could"+"create"+"a"+"crisis"
+"immigration"+"could"+"be"+"a"+"potential"+"solution"
+"nevertheless"+"covid"+"played"+"a"+"role"+"in"+"population"+"decline"
+"specifically"+"the"+"aftermath"+"states"+"it"+"was"+"accelerated"+"a"+"decade"
+"the"+"idea"+"of"+"a"+"covid"+"baby"+"boom"+"is"+"a"+"little"+"more"+"complicated"
+"it"+"started"+"promising"+"but"+"it"+"eventually"+"receded"
+"more"+"flexibility"+"can"+"easily"+"result"+"in"+"some"+"sort"+"of"+"baby"+"bump"]
 multiple choice list 12=[1a tiktockers b cardboard cutouts c pawns d storyboards,2a demographic b naysayer  c broader d narrow,3a 5g b wifi c internet dipod,4a sheer b holocaust-like c limited d shocking,5” a primary b national security crisis c black swan event d only,6 a problem b solution c question d rush to judgement,7a male b walrus c american d canadian,8 a majorly b somewhat c all the time d in a way,9 a voting b internet c bathroom  d public viewing of trump’s trials,10a vote b use amazon  c work from home d surf the web,11a misinformation b disinformation c information d cures,12a covid b the tide pod challenge c drinking bleach d the ukraine war,13a pew b the aftermath c philp bump d the us census bureau,14a covid baby boom b  roaring 2020s c great resignation  d major mutation,15a started b ended c sounded d  receded,16a flexibility  b focus on liberal arts  c people fighting ghosts d threats to democracy,17a months b days c decades d years ,18a us population b top 1 percent who have to pay more in social security taxes  c ronna mcdaniel  d russian oligarchs in cyprus,19 a 7  b a couple of  c 12   d  5,20 a internet access b good teachers  c a twin bed   d common sense,21ayes  b no   
-covid strings12 math problems list=[“if”+”projections”+”say”+”that”+”covid”+”accelerated”+”the”+”us’s”+”decline”+”below”+”replacement”+”level”+”such”+”that”+”it”+”is”+”projected”+”that”+”there”+”will”+”only”+”be”+”4/7”+”younger”+”people”+”to”+”5”+”times”+”as”+”many”+”older”+”people”+”is”+”this”+”sustainable?” ”if”+”updated”+”statistics”+”show”+”it”+”is”+”actually”+”going”+”to”+”be”+”3”+”to”+”1.5”+”what”+”is”+”the”+”takeaway?”  concatenated”if”+”statistically”+”speaking”+”the”+”most”+”likely”+”scenario”+”is”+”a”+”1.5”+”to”+”1”+”scenario”+”how”+”sustainable”+”is”+”this?”
-“if”+”a”+”poll”+”found”+”that”+”post”+”covid”+”support”+”for”+”making”+”internet”+”access”+”easier”+”is”+”96”+”percent”+”what”+”percent”+”don’t”+”care?”  “if”+”that”+”same”+”poll”+”found”+”pre-covid”+”that”+”only”+”53”+”percent”+”support”+”increasing”+”internet”+”access”+”what”+”is”+”the”+”difference?” “if”+”90”+”percent”+”of”+”the”+”post-pandemic”+”internet”+”opposition”+”said”+”that”+”their”+”reasoning”+”was”+”that”+”video”+”games”+”are”+”making”+”kids”+”violent”+”what”+”is”+”the”+”percent?” “if elon musk challenges the head of the census bureau to a debate about  the state of the population if the head of the census bureau argues that 98 percent of cases musk cited prove a decline in birth rates is not a disaster what is the percent of the outliers?” ,“ if elon musk said that the comparisons with covid and world war 2 are not really valid because  the problem is that there may be more hidden damage if 57 percent of americans said this is plausible how many don’t?”,“ if it turns out that 79 percent of americans would strongly agree if the phrase covid should not be compared to a war were added how many Americans would that be if the total number of respondents was 341?”]
-covid strings sentence12=[covid will cause the us population to decline for years to come,life spans will drop a couple of years because of covid,one morale of covid is if you have internet access youre lucky]
+covid strings12 math problems list=[“if”+”projections”+”say”+”that”+”covid”+”accelerated”+”the”+”us’s”+”decline”+”below”+”replacement”+”level”+”such”+”that”+”it”+”is”+”projected”+”that”+”there”+”will”+”only”+”be”+”4/7”+”younger”+”people”+”to”+”5”+”times”+”as”+”many”+”older”+”people”+”is”+”this”+”sustainable?”,”if”+”updated”+”statistics”+”show”+”it”+”is”+”actually”+”going”+”to”+”be”+”3”+”to”+”1.5”+”what”+”is”+”the”+”takeaway?”  concatenated”if”+”statistically”+”speaking”+”the”+”most”+”likely”+”scenario”+”is”+”a”+”1.5”+”to”+”1”+”scenario”+”how”+”sustainable”+”is”+”this?”
+“if”+”a”+”poll”+”found”+”that”+”post”+”covid”+”support”+”for”+”making”+”internet”+”access”+”easier”+”is”+”96”+”percent”+”what”+”percent”+”don’t”+”care?”,“if”+”that”+”same”+”poll”+”found”+”pre-covid”+”that”+”only”+”53”+”percent”+”support”+”increasing”+”internet”+”access”+”what”+”is”+”the”+”difference?”,“if”+”90”+”percent”+”of”+”the”+”post-pandemic”+”internet”+”opposition”+”said”+”that”+”their”+”reasoning”+”was”+”that”+”video”+”games”+”are”+”making”+”kids”+”violent”+”what”+”is”+”the”+”percent?”, non-concatenated“if elon musk challenges the head of the census bureau to a debate about  the state of the population if the head of the census bureau argues that 98 percent of cases musk cited prove a decline in birth rates is not a disaster what is the percent of the outliers?” ,“ if elon musk said that the comparisons with covid and world war 2 are not really valid because  the problem is that there may be more hidden damage if 57 percent of americans said this is plausible how many don’t?”,“ if it turns out that 79 percent of americans would strongly agree if the phrase covid should not be compared to a war were added how many americans would that be if the total number of respondents was 341?”]
+covid strings sentence list 12=["covid will cause the us population to decline for years to come","life spans will drop a couple of years because of covid","one morale of covid is if you have internet access youre lucky"]
 string.split   
 arrays.aslist(list<string>)
 for (string ss:arr){
