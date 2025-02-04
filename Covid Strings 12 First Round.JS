@@ -3,8 +3,18 @@ script
 html
 head 
 utf8
-viewport content=width=device-width, initial-scale=one>
+viewport content=width=device-width, initial-scale=one
 title covid strings12 first round bracket
+div id bracket class bracket div
+script src bracket.js
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings12 first round.js
 first round =(highest overall seed, second highest seed, third highest seed, fourth highest seed,fifth highest seed,third low seed, second low seed,lowest overall seed)
 highest overall seed = seed1
