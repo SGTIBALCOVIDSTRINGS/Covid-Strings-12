@@ -27,14 +27,14 @@ second lowest seed = seed7
 lowest overall seed = seed8
 addeventlistener(domcontentloaded, () => {
 bracket = getelementbyid(bracket);
-create matchup(pink versus orange)
-create matchup(yellow versus red)
-create matchup(purple versus blue)
-create matchup(teal versus black)
+matchup1=(pink versus orange)
+matchup2=(yellow versus red)
+matchup3=(purple versus blue)
+matchup4=(teal versus black)
 matchup div=matchup
 document.createelement 
 matchupdiv.classname=(matchup)
-matchupdiv.innerHTML =[matchup]
+matchupdiv.inner html =[matchup]
 rounddiv.appendchild(matchup)
 for (i in covid strings first round)
 round div=create element
@@ -69,20 +69,23 @@ if selectedanswer=incorrect
 return false
 advancingteam=slice(current teams)
 declarewinner
-result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup1)
 if orange score>=forty:
 console.log(orange rna messengers win)
 else:
 consloe.log(pink covid disease fighters win)
-if red score>forty:
+result=declarewinner(matchup2)
+if red score>=forty:
 console.log(red protein spikers win)
 else:
 console.log(yellow moxie wins)
-if blue score>forty:
+result=declarewinner(matchup3)
+if blue score>=forty:
 console.log(blue curve crushers win)
 else:
 console.log(purple brave hearts)
-if black score>forty:
+result=declarewinner(matchup4)
+if black score>=forty:
 console.log(black night riders win)
 else:
 console.log(teal terminators win)
