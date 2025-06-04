@@ -20,6 +20,15 @@ filename=covid strings12 key words.js
 keywords
 key search words for covid strings12
 covid strings 12 key word list=[sad reality of covids impact on kids,us population will decline by 2060,haves and have nots of the pandemic,amount of death creates crisis,4/7:5,hmpv,immigration,lifespan decline post covid,internet access who lives and dies,basic human right,internet has had an impact on your life,96-53,the internet can help you get,population decline,accelerate a decade,more complicated,100-98,eventually receded,baby bump,100-57,341*.79,]
+string manager non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+string manager concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
 for string in covid strings search word list
 select characters
